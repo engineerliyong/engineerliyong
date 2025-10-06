@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello World! I'm Lizaaaa
+#  Hello World!! I'm ✨Lizaaaa✨
 
 ### Electrical & Electronics Engineering Student | AI/ML Enthusiast | Full-Stack Developer
 
