@@ -20,13 +20,14 @@
 I'm an **Electrical and Electronics Engineering student** with a passion for bridging hardware and software. I thrive at the intersection of innovation and practical problem-solving, where circuits meet code and ideas become reality.
 
 🔬 **Currently exploring:**
-- 🤖 **AI/ML** - Building intelligent systems and exploring deep learning
-- 🌐 **Web Development** - Creating responsive, user-friendly web applications
+- 🤖 **AI/ML & Edge AI** - Building intelligent systems and deploying ML on embedded devices
+- 🌐 **Web & App Development** - Creating responsive full-stack applications
 - ⚡ **Embedded Systems** - Programming microcontrollers and IoT devices
+- 📊 **Signal Processing** - Extracting insights from sensor data for predictive maintenance
 
 💡 **What drives me:** The thrill of turning complex engineering challenges into elegant solutions, whether that's training a neural network, designing a circuit board, or building a full-stack application.
 
-⚡ **Fun fact:** I am funny, I promise — just with the right motivation (and maybe coffee) ☕
+⚡ **Fun fact:** I code daily and believe consistency beats intensity every time ☕
 
 ---
 
@@ -45,7 +46,7 @@ I'm an **Electrical and Electronics Engineering student** with a passion for bri
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ### Web & App Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -58,9 +59,15 @@ I'm an **Electrical and Electronics Engineering student** with a passion for bri
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Embedded Systems & Tools
+### Embedded Systems & Hardware
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+
+### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
@@ -68,27 +75,17 @@ I'm an **Electrical and Electronics Engineering student** with a passion for bri
 
 <div align="center">
   
-<!-- GitHub Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=engineerliyong&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineerliyong&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8&hide=html,css,scss" alt="Top Languages" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineerliyong&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" alt="Top Languages" height="180em" />
 
 </div>
 
 <div align="center">
   
-<!-- GitHub Streak Stats -->
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=engineerliyong&theme=dracula&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
 </a>
-
-</div>
-
-<div align="center">
-  
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=engineerliyong&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -96,9 +93,10 @@ I'm an **Electrical and Electronics Engineering student** with a passion for bri
 
 ## 🌱 Current Focus
 
-- 🔭 Working on AI/ML projects involving computer vision and neural networks
-- 🌐 Building full-stack web applications with modern frameworks
-- 📚 Deepening my knowledge in embedded systems and IoT
+- 🔭 Building AI/ML projects and exploring Edge AI for embedded systems
+- 🌐 Developing full-stack web and mobile applications
+- 📚 Deepening knowledge in signal processing and predictive maintenance
+- ⚡ Working on IoT projects with microcontrollers
 - ✍️ Sharing my learning journey on [Medium](https://medium.com/@liyong'slibraryofthoughts)
 
 ---
@@ -111,7 +109,7 @@ I'm always excited to collaborate on innovative projects or discuss ideas in AI,
 
 **📧 Email:** lizabambu544@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lizabambu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Liza-Bambu)
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium)](https://medium.com/@liyong'slibraryofthoughts)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/lizaliyong)
 
