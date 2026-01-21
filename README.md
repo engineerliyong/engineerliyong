@@ -22,7 +22,6 @@ I'm an **Electrical and Electronics Engineering student** with a passion for bri
 🔬 **Currently exploring:**
 - 🤖 **AI/ML** - Building intelligent systems and exploring deep learning
 - 🌐 **Web Development** - Creating responsive, user-friendly web applications
-- 📱 **App Development** - Crafting mobile experiences with React Native
 - ⚡ **Embedded Systems** - Programming microcontrollers and IoT devices
 
 💡 **What drives me:** The thrill of turning complex engineering challenges into elegant solutions, whether that's training a neural network, designing a circuit board, or building a full-stack application.
